@@ -10,9 +10,9 @@ We plan to build software that can detect a car whenever it crosses a Red Light 
 CCTV footage of the road in .avi format.
 
 ## Outputs:
-The output of the software will consist of-
-Vehicle speed 
-detected license plate photo of the vehicle
+The output of the software will consist of- <br>
+Vehicle speed<br>
+detected license plate photo of the vehicle  
 extracted license plate number  
 
 ## Performance measurement criteria (Milestones and dates):
@@ -20,6 +20,6 @@ High accuracy of detecting all the vehicles even in high traffic conditions, det
 
 ## Team members
 
-Abha Wadjikar
-Niwedita
-Shramila Biswas
+Abha Wadjikar  
+Niwedita  
+Shramila Biswas  
