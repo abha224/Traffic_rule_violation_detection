@@ -17,3 +17,9 @@ extracted license plate number
 
 ## Performance measurement criteria (Milestones and dates):
 High accuracy of detecting all the vehicles even in high traffic conditions, detecting the license plate and extracting the license plate number would be the primary concern of this project. 
+
+## Team members
+
+Abha Wadjikar
+Niwedita
+Shramila Biswas
